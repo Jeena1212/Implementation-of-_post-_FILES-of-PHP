@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+.files{
+    height: 100px;
+    width: 100px;
+}
+.pos{
+    height: 100px;
+    width: 100px;
+}
+.pos form{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+}
+.pos form input{
+    margin-top: 10px;
+}
